@@ -37,8 +37,8 @@
 </p>
 
 ### Мои проекты:
-- CHITCOM - сайт для CH IT Community [Код](https://github.com/Dudaeva/chitcom.git)
-- Barber-vill - сайт для парикмахерской  [Код](https://github.com/Dudaeva/barber-vill.git)
+- CHITCOM - сайт для CH IT Community [Код](https://github.com/Dudaeva/chitcom.git) 
+- Barber-vill - сайт для парикмахерской  [Код](https://github.com/Dudaeva/barber-vill.git) [Демо](https://barber-vill.herokuapp.com)
 
 ### Мои контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-0b7da1?style=social&logo=telegram&logoColor=white)](https://teleg.run/dudaeva_s)
